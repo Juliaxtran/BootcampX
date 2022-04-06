@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Juliaxtran/BootcampX/issues"
   },
-  "homepage": "https://github.com/Juliaxtran/BootcampX#readme"
+  "homepage": "https://github.com/Juliaxtran/BootcampX#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
 }
